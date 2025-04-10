@@ -13,5 +13,8 @@
   "description": "",
   "dependencies": {
     "vite": "^6.2.5"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
   }
 }
