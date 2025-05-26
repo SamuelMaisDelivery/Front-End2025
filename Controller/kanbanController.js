@@ -1,4 +1,4 @@
-const { readData, writeData } = require("../models/kanbanModel");
+const { readData, writeData } = require("../Model/kanbanModel.js");
 
 const getKanban = (req, res) => {
   try {
